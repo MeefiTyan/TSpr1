@@ -1,0 +1,15 @@
+{
+  "name": "tspr1",
+  "version": "1.0.0",
+  "description": "Цей репозиторій створений для демонстрації базових можливостей TypeScript.   У ньому налаштований компілятор, приклад простого коду та структура директорій для майбутнього проєкту.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
